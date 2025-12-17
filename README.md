@@ -61,7 +61,7 @@ The `Data/` directory contains extended EVRPTW benchmark instances:
 
 The data is **part of this research contribution**.
 
-@article{RastaniEVRPTWGR,
+@article{EVRPTWGR,
   title   = {Uphill Struggles, Downhill Gains: How Road Gradients and Load Dynamics Influence Electric Vehicle Routing Decisions},
   author  = {Rastani, Sina and Keskin, Merve and Yüksel, Tuğçe and Çatay, Bülent},
   journal = {To appear},
