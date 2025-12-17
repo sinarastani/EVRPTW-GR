@@ -79,7 +79,7 @@ The data is **part of this research contribution**.
 ### Execution
 Edit the desired instance inside the corresponding MILP file and run:
 
-```bash
+
 python MILP2.py
 
 ### Results
